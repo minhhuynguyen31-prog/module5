@@ -1,0 +1,8 @@
+{
+    "name": "typescript-variable",
+    "version": "1.0.0",
+    "description": "Bài thực hành khai báo biến trong TypeScript",
+    "dependencies": {
+        "typescript": "^4.1.5"
+    }
+}
